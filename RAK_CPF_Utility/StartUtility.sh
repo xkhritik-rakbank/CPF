@@ -1,0 +1,1 @@
+"/opt/rak_bpm/IBM/WebSphere/AppServer/java_1.8_64/bin/java" -jar rak_cpf_utility.jar

@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Class-Path: . lib/DataEncryption.jar 
+ lib/log4j-1.2.14.jar 
+ lib/ngejbcallbroker.jar 
+ lib/omnishared.jar 
+ lib/SecurityAPI.jar 
+ lib/wfdesktop.jar 
+ lib/wfsclient.jar 
+ lib/com.ibm.ws.ejb.thinclient_8.5.0.jar 
+ lib/stubswfscustom.jar 
+ lib/stubwfs.jar 
+ lib/Amazon.jar 
+ lib/aws-java-sdk-1.11.40.jar 
+ lib/azure-storage-5.0.0.jar 
+ lib/commons-io-2.0.1.jar 
+ lib/ISPack.jar 
+ lib/jdts.jar 
+ lib/NIPLJ.jar 
+ lib/nsms.jar 
+ lib/commons-codec-1.7.jar 
+ lib/ejb.jar lib/ejbclient.jar 
+ lib/stubs.jar 
+ lib/itextpdf-5.3.2.jar 
+ lib/json-simple-1.1.1.jar 
+ lib/guava-17.0.jar 
+ lib/poi-3.8-20120326.jar 
+ lib/poi-ooxml-3.8-20120326.jar 
+ lib/poi-ooxml-schemas-3.8-20120326.jar 
+ lib/dom4j-1.6.jar 
+ lib/xmlbeans-2.6.0.jar 
+ lib/poi-3.17.jar 
+ lib/poi-ooxml-3.17.jar 
+ lib/poi-ooxml-schemas-3.17.jar 
+Main-Class: com.newgen.main.RAK_CPF_Utility
